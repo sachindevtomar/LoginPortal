@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login Portal</string>
+    <string name="facebook_app_id">1861710180760947</string>
+    <string name="welcome">Welcome</string>
+</resources>
